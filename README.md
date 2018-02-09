@@ -20,3 +20,6 @@ Motivation-
 The voice sample is given as the input and the Gaussian white noise is removed from it using Mahalanobis distance.The voice is processed further and MFCC features are exracted from it in the form of tuples.The MFCC features are then trained using deep neural networks.
 Keras library is being used for deep neural networks.
 
+Challenges:-
+Removing the noise was one of the crucial and important task in the project.We achieved it using Mahalanobis distance.It is the distance of a point from the distribution.We have currently tested it with 8 speakers and achieved an accuracy of 82%.Mahalanobis distance has been used for removing the gaussian white noise which is present in every voice sample.
+
