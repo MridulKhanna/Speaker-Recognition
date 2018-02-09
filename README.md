@@ -3,6 +3,7 @@ Identification of speaker with voice given as input
 
 Like in speech recognition,what is being said is identified whereas in Speaker recognition system,the speaker is identified.We plan to achieve three models in this project:-
 1.Achieving higher accuracy with noisy input samples.
+
 2.Differentiating between mimic voice and original voice.
 3.Differentiating between computer generated and true human voice.
 
